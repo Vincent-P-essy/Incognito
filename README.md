@@ -1,6 +1,7 @@
 # Incognito
 
 Ce projet est un petit jeu vidéo développé en C dans le cadre de mon année de L2 Informatique.
+Voir rapport PDF pour plus de détails
 
 ## Fichiers
 - `Plessy_-_Incognito.c` : code source du jeu
